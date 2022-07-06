@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+   
+}
+h1{
+    font-size:50px;
+}
+.name-coloring{
+    color:orange;
+}
+
+.half-width
+{
+width:50%;
+padding-left: 5%;
+}
+
+.half-width img
+{
+    width:95%;
+}
+
+section{
+   
+    margin-bottom: 150px;
+    
+}
+.link-block
+{
+text-decoration: none;
+color:white;
+border-radius: 5px;
+padding:10px 25px;
+background-image: linear-gradient(orange,red);
+}
+.hiring-blog
+{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.dream-big
+{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.box-element
+{
+    display:flex;
+}
+.final-section h3{
+      color:orange;
+}
+.shadow-box
+{
+    box-shadow: 10px 10px 25px gray;
+    margin-right:20px;
+    margin-left: 50px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+   height:375px;
+   width:75%;
+    
+}
+.final-section h1{
+    font-size: 40px;
+}
+
+#baby-web-developer
+{
+    border-left: 10px solid blue;
+    border-radius: 5px;
+}
+#full-stack-web-developer
+{
+    border-left: 10px solid tomato;
+    border-radius: 5px;
+}
+.final-section
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat:no-repeat ;
+    background-position: left;
+}
+
+footer p{
+    text-align: center;
+    
+}
